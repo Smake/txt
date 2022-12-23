@@ -3,3 +3,4 @@ avito.ru
 gosuslugi.ru
 esia.gosuslugi.ru
 gu-st.ru
+zdravcity.ru
